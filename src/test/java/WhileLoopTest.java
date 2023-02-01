@@ -5,10 +5,10 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 public class WhileLoopTest {
-    static WhileLoop wl;
+    static Lab wl;
     @BeforeClass
     public static void setUp(){
-        wl = new WhileLoop();
+        wl = new Lab();
     }
 
     /**

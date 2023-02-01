@@ -1,5 +1,5 @@
 
-public class WhileLoop {
+public class Lab {
     /**
      * A while loop uses a conditional statement (within parentheses) and runs the code {within curly braces}
      * as long as the conditional is true.
